@@ -19,6 +19,7 @@ Install the required dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## How It Works
 
@@ -42,6 +43,7 @@ The script uses the `ping` command to measure the Round-Trip Time (RTT) to the t
   
   ```bash
   sudo python ip_distance.py <target_ip>
+  ```
 
 - **Firewall Restrictions**: Some networks or ISPs block ping (ICMP) packets. If the script cannot measure RTT, check your network settings or try another network.
 
