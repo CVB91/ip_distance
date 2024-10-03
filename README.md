@@ -1,6 +1,6 @@
-# IP Distance Tool
+# RoundTrip: IP Distance Tool
 
-The **IP Distance Tool** is a Python command-line utility that calculates the estimated distance between two IP addresses using geolocation and Round-Trip Time (RTT) latency. It can either calculate the distance from your current location to a target IP or, using the `--custom` flag, between two specified IP addresses.
+RoundTrip or **IP Distance Tool** is a Python command-line utility that calculates the estimated distance between two IP addresses using geolocation and Round-Trip Time (RTT) latency. It can either calculate the distance from your current location to a target IP or, using the `--custom` flag, between two specified IP addresses.
 
 ## Features
 
